@@ -16,7 +16,7 @@ go to addons/counterstrikesharp/configs/plugins/uf-mapchoose
 from here edit maplist.cfg and config.cfg
 maplist must be mapname and workshop map id Example mg_mapname:id
 by configs.cfg you can edit but I recommented you edit only RTVdelay. 
-keep the changemaproundend on true. or map wont be change ( Bug )
+keep the changemaproundend on false. or map wont be change ( Bug )
 
 If you want you can check video tutorial from my youtube video: 
 https://www.youtube.com/watch?v=mzaUDTXzrc0
